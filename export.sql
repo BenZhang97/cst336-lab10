@@ -1,4 +1,4 @@
--- MySQL dump 10.13  Distrib 5.5.62, for Linux (x86_64)
+-- MySQL dump 10.13  Distrib 5.5.62
 --
 -- Host: localhost    Database: lab10-db
 -- ------------------------------------------------------
